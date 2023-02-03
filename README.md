@@ -1,6 +1,6 @@
 # Calculating Coffee Servings from String Data
 
-Methods use to calculate Total Servings: 
+Methods used to calculate Total Servings: 
 
 Considering the complexity of the 'Title' column data and that it is not standardized (different terms used to descibe servings and boxes), I decided to proceed with using Python to parse through unique 'Title' values using regular expressions to retrieve keywords associated with servings and its numeric values.  
 
