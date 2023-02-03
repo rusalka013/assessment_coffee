@@ -16,4 +16,5 @@ Total (if not explicitly stated) = count * boxes
 If there is no informaiton on boxes or counts we assume the value is 1. 
 
 
+
 DISCLOSURE:  The formulas and code need more fine-tuning to accomodate for all boundary casees. 
